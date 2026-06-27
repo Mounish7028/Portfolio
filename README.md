@@ -1,3 +1,21 @@
+#My-Portfolio
+Welcome to my interactive portfolio! This isn't just a static resume; it's a showcase of modern web engineering and AI design.
+
+✨ Key Features:
+
+Liquid Glass UI: A futuristic, iOS-26 inspired aesthetic with smooth micro-animations.
+AI Companion: A simulated NLP chatbot that can answer questions about my skills, education, and projects in real-time.
+Core Reactor Game: An interactive puzzle that requires users to reconstruct an AI deployment workflow (Python → LangGraph → Gemini → Vector DB → AWS → Deployment) to stabilize the system.
+Portfolios shouldn't be boring. So, I gamified mine. 🎮✨
+
+I'm excited to share my completely redesigned developer portfolio! Instead of just listing my AI/ML projects and AWS certifications, I built interactive experiences directly into the UI:
+
+💬 AI Companion: A custom chatbot built into the site. Ask it about my RAG projects, my education at VIT-AP, or how to contact me, and it will respond like a true LLM. 🧩 Core Reactor Puzzle: An interactive flowchart game where you have to correctly architect an AI system (Python → LangGraph → Gemini → Vector DB → AWS → Deployment) to stabilize the "core". 🎨 Liquid Glass Aesthetics: Designed from scratch using React, TailwindCSS, and Framer Motion for buttery-smooth animations.
+
+I'd love for you to check out the repo (and play the mini-game!) here: https://github.com/Mounish7028/Portfolio
+
+#SoftwareEngineering #AI #ReactJS #WebDesign #OpenSource #TechPortfolio #DeveloperJourney
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
