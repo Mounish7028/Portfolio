@@ -2,6 +2,10 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
+#Preview
+<img width="1924" height="1084" alt="image" src="https://github.com/user-attachments/assets/36ebe216-c9de-4089-8b54-c7363f92cb10" />
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
